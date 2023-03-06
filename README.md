@@ -145,6 +145,6 @@ Creating a new user, showing the ID and updating the fields
 
 Creating a new basemodel, counting basemodel, delete and count again
 
-![Destroy](https://github.com/daorejuela1/AirBnB_clone/blob/master/images/destroy.gif)
+![Destroy](https://github.com/Briankipkemboi78/AirBnB_clone/blob/main/images/decon.gif)
 
 Coded by: [Brian Kipkemboi](https://github.com/Briankipkemboi78) & []()
