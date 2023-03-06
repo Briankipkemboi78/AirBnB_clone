@@ -1,7 +1,7 @@
 # AirBnB_clone - Console that's in charge of managing the models in a common AirBnB application.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![Console](https://github.com/daorejuela1/AirBnB_clone/blob/master/images/console_airbnb.png)
+![Console](https://github.com/Briankipkemboi78/AirBnB_clone/blob/master/images/console_airbnb.png)
 "Structure of the project"
 
 `Storage engine -> Json file.`
@@ -23,7 +23,7 @@ sudo apt-get install python3
 To have access to the console use the following command:
 
 ```
-git clone https://github.com/daorejuela1/AirBnB_clone.git; cd AirBnB_clone
+git clone https://github.com/Briankipkemboi78/AirBnB_clone.git; cd AirBnB_clone
 ```
 
 # Run
